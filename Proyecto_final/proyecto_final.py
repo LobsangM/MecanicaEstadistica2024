@@ -42,7 +42,7 @@ def montecarlo(posiciones, temperatura, num_pasos):
     return posiciones
 
 # Ejecutar la simulación
-num_pasos = 10000
+num_pasos = 200
 posiciones_finales = montecarlo(posiciones_finales, T, num_pasos)
 
 # Graficar las posiciones iniciales y finales de las partículas
