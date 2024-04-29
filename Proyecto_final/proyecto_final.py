@@ -1,11 +1,11 @@
 # File: proyecto_final.py
-# Date: 23/04/2024
+# Date: 27/04/2024
 
 import numpy as np
 import matplotlib.pyplot as plt
 
 # Parámetros
-N = 50  # Número de partículas
+N = 80  # Número de partículas
 L = 1.0  # Longitud del contenedor
 T = 1.0   # Temperatura
 V = L**3  # Volumen del contenedor
